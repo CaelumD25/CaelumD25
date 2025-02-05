@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Caelum<i>(He/Him)</i>👋 and I'm a Software Engineer, from British Columbia, Canada 🍁</p>
+<p align="left">👋 My name is Caelum(<i>He/Him</i>) and I'm a Software Engineer, from British Columbia, Canada 🍁</p>
 
 ###
 
