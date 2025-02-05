@@ -12,6 +12,12 @@
 
 <p align="left">✨ Creating bugs since 2019<br>🌱 Currently studying Informational Security, Computer Graphics, and Realtime Systems at the University of Victoria<br>💻 Working on React and Flutter applications<br>🎯 Goals: Building great applications that make a tangible difference<br>🌟 Favorite tech: React, Cypress, Python, Flutter, Docker, Jetbrains<br>⚡ Fun fact: I graduate with my BSeng in April!</p>
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/caelum-dudek/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  </div>
+
 ###
 
 <h2 align="left">I code with</h2>
